@@ -17,7 +17,7 @@
         {
             "cell_type": "markdown",
             "metadata": {},
-            "source": "### The Code'll generate an integer between 10 and 25"
+            "source": "### The Code'll generate an integer between 33 and 92"
         },
         {
             "cell_type": "code",
