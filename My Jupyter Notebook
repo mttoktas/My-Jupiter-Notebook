@@ -1,6 +1,41 @@
-{
- "cells": [],
- "metadata": {},
- "nbformat": 4,
- "nbformat_minor": 5
-}
+
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": "#My Jupyter Notebook on IBM Watson Studio"
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": "**Taylan Toktas**\n"
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": " System and Process Auditor at PwC"
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": "### The Code'll generate an integer between 10 and 25"
+        },
+        {
+            "cell_type": "code",
+            "execution_count": 2,
+            "metadata": {},
+            "outputs": [
+                {
+                    "name": "stdout",
+                    "output_type": "stream",
+                    "text": "25\n"
+                }
+            ],
+            "source": "import random\n\nRandom_int = random.randint(33,92)\n\nprint(Random_int)"
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": "Favorite song lyrics:\n***\n1. Woe to you, o'er Earth and Sea\n2. For the Devil sends the beast with wrath\n3. Because he knows the time is short\n4. Let him who hath understanding reckon the number of the beast\n5. For it is a human number\n6. Its number is six hundred and sixty-sixn\***\n[Video](https://www.youtube.com/watch?v=WxnN05vOuSM) https://www.youtube.com/watch?v=WxnN05vOuSM"
+        },
+
+    
